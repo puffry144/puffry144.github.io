@@ -56,7 +56,7 @@ scrollAnimation.reveal('.discount_button',{
 })
 scrollAnimation.reveal('.discount_container', {
     origin: 'left',
-    duration: 2000,
+    duration: 9000,
     distance: '600px'
 })
 
